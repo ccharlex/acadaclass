@@ -478,3 +478,35 @@
   478  rm Sundayclass.txt
   479  history sundayclass.txt
   480  history > sundayclass.txt
+  481  cat sundayclass.txt
+  482  clear
+  483  git show
+  484  git show 5-6
+  485  git log --oneline
+  486  git show --73afc45
+  487  git show 73afc45
+  488  git show 990fb22 ;; git show bb64bfc
+  489  git show 990fb22 && git show bb64bfc
+  490  git show 990fb22 ; git show bb64bfc
+  491  vi git-file.txt
+  492  git commit -a
+  493  git status
+  494  git add sundayclass.txt
+  495  git commit -am
+  496  git commit -a
+  497  git commit -am "Add status"
+  498  git status
+  499  git log
+  500  git status --oneline
+  501  git log --oneline
+  502  git commit --ammend -m "Modifies a line"
+  503  git amend --m "Modifies a line in the code"
+  504  man git help |amend
+  505  man git | grep amend
+  506  clear
+  507  git branch
+  508  git branch new_feature
+  509  git branch
+  510  git checkout new_feature
+  511  git branch
+  512  history > sundayclass.txt
