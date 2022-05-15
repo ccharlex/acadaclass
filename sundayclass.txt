@@ -574,3 +574,49 @@
   574  git merge new_feature
   575  git diff master..new_feature
   576  history > sundayclass.txt
+  577  git diff master..new_feature
+  578  git diff new_feature..master
+  579  cat sundayclass.txt
+  580  git status
+  581  git commit -am "history updated on master"
+  582  git diff new_feature..master
+  583  git switch new_feature
+  584  git diff new_feature..master
+  585  git switch master
+  586  git merge new_feature
+  587  git diff new_feature..master
+  588  git switch new_feature
+  589  git merge master
+  590  git diff new_feature..master
+  591  clear
+  592  git log --oneline
+  593  man git branch
+  594  git branch -f onowu
+  595  git log
+  596  clear
+  597  git log --online
+  598  git log --oneline
+  599  git status -1
+  600  git log -1
+  601  git switch onowu
+  602  git branch
+  603  git status
+  604  ls
+  605  git diff mater..onowu
+  606  git diff master..onowu
+  607  git diff onowu..new_feature
+  608  git switch master
+  609  git commit --amend -m "changed a few things"
+  610  git diff master..onowu
+  611  git diff master..new_feature
+  612  git diff new_feature..master
+  613  git diff
+  614  git branch
+  615  history > sundayclass.txt
+  616  git diff
+  617  git diff --color-words
+  618  gitdiff --no-color
+  619  git diff --no-color
+  620  git diff master..new_feature
+  621  git status
+  622  history > sundayclass.txt
