@@ -574,6 +574,11 @@
   574  git merge new_feature
   575  git diff master..new_feature
   576  history > sundayclass.txt
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+>>>>>>> onowu
   577  git diff master..new_feature
   578  git diff new_feature..master
   579  cat sundayclass.txt
@@ -620,3 +625,7 @@
   620  git diff master..new_feature
   621  git status
   622  history > sundayclass.txt
+<<<<<<< HEAD
+=======
+>>>>>>> master
+>>>>>>> onowu
