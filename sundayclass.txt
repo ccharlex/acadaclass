@@ -510,3 +510,54 @@
   510  git checkout new_feature
   511  git branch
   512  history > sundayclass.txt
+  513  cat sundayclass.txt
+  514  clear
+  515  git status
+  516  git add sundayclass.txt
+  517  git commit -am "Working from new_featur branch"
+  518  git status
+  519  git diff
+  520  git diff --colour
+  521  git show
+  522  git checkout new_feature
+  523  git branch master
+  524  git checkout master
+  525  git switch new_feature
+  526  git log
+  527  clear
+  528  git status
+  529  cat git-file.txt
+  530  gt switch master
+  531  git switch master
+  532  cat git-file.txt
+  533  git log --oneline
+  534  git switch new_feature
+  535  cat git-file.txt
+  536  git branch
+  537  ls -a
+  538  cd .git
+  539  ls
+  540  cd branches
+  541  ls
+  542  ls -a
+  543  cd ..
+  544  git branch
+  545  git diff new_featre..master
+  546  git diff new_feature..master
+  547  clear
+  548  git diff new_feature..master
+  549  git branch test_branch1
+  550  git branch
+  551  git checkout -b test_branch2
+  552  git branch -m bug_fix
+  553  git branch
+  554  git switch master
+  555  git branch -m test_branch1 beta_testing
+  556  git branch
+  557  git branch -d bug_fix
+  558  git switch new_feature
+  559  git branch -d beta_testing
+  560  git branch
+  561  git branch -d bug_fix
+  562  git branch
+  563  history > sundayclass.txt
