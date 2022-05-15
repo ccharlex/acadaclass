@@ -575,6 +575,7 @@
   575  git diff master..new_feature
   576  history > sundayclass.txt
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 <<<<<<< HEAD
 =======
@@ -629,3 +630,5 @@
 =======
 >>>>>>> master
 >>>>>>> onowu
+=======
+>>>>>>> new_feature
