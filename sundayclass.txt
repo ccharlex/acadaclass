@@ -561,3 +561,16 @@
   561  git branch -d bug_fix
   562  git branch
   563  history > sundayclass.txt
+  564  git status
+  565  cat sundayclass.*
+  566  git status
+  567  git commiy -am "Updated syntaxes"
+  568  git commit -am "Updated syntaxes"
+  569  clear
+  570  git log --oneline
+  571  clear
+  572  git diff master..new_feature
+  573  git switch master
+  574  git merge new_feature
+  575  git diff master..new_feature
+  576  history > sundayclass.txt
