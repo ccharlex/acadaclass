@@ -632,3 +632,23 @@
 >>>>>>> onowu
 =======
 >>>>>>> new_feature
+  788  git diff onowu..new_feature
+  789  git remote
+  790  git remote add origin https://github.com/ccharlex/acadaclass.git
+  791  git branch
+  792  git remote
+  793  git remote -v
+  794  got status
+  795  git status
+  796  git branch
+  797  git push -u origin master
+  798  git fetch
+  799  git status
+  800  history > may19.txt
+  801  git status
+  802  git add may19.txt
+  803  git status
+  804  git commit -m "thursday history updated"
+  805  git status
+  806  history -12 >> sundayclass.txt
+  807  history | tail -20 >>sundayclass.txt
