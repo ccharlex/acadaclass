@@ -652,3 +652,4 @@
   805  git status
   806  history -12 >> sundayclass.txt
   807  history | tail -20 >>sundayclass.txt
+  808  Omega Alpha not a command
