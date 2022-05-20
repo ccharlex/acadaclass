@@ -1,0 +1,800 @@
+    1  //help
+    2  help
+    3  cls
+    4  clr
+    5  dir
+    6  dir/a
+    7  dir /a
+    8  exit
+    9  ssh -i "'C:\DEvOps-Cohort7\AWS\DEvOpspem.pem' ec2-user@3.17.141.67
+   10  ssh -i 'C:\DEvOps-Cohort7\AWS\DEvOpspem.pem' ec2-user@3.17.141.67
+   11  ssh -i "C:\DEvOps-Cohort7\AWS\DEvOpspem.pem" ec2-user@3.17.141.67
+   12  ls /all
+   13  ls
+   14  ls /a
+   15  ll /a
+   16  mkdir Owen
+   17  mkdir Omo
+   18  mkdir faye
+   19  mkdir gaby
+   20  mkdir Omog
+   21  mkdir Ese
+   22  ls
+   23  ls /a
+   24  ll 
+   25  cls
+   26  ls
+   27  ls /a
+   28  mkdir Omo
+   29  mkdir Ese
+   30  Mkdir Omog
+   31  mkdir omog
+   32  mkdir gaby
+   33  ls
+   34  ll
+   35  ls /a
+   36  ls -a
+   37  ll -a
+   38  cd ese
+   39  cd Ese
+   40  cd..
+   41  cd ..
+   42  cd -
+   43  ls
+   44  cd Ese
+   45  cd -
+   46  ls /home
+   47  ls -t
+   48  mkdir presh
+   49  mkdir joy
+   50  ls
+   51  ls -tla
+   52  ls -tlra
+   53  touch Onowu.docx
+   54  open onowu.docx
+   55  onowu.docx
+   56  cat Onowu.txt
+   57  ls
+   58  touch database.db
+   59  vi database.db
+   60  vi touch.txt
+   61  cat database.db
+   62  cat Onowu.docz
+   63  cat Onowu.docx
+   64  nano database.db
+   65  vi database.db
+   66  cat database.db
+   67  tail database.db
+   68  head -15 database.db
+   69  sudo yum install tree -y
+   70  tree
+   71  ls
+   72  cd Ogbede
+   73  mkdir ogbede
+   74  mkdir Jude Peter Agnes Jessica Cyprian Andrew Charles
+   75  ls
+   76  rmdir ogbede Jude Peter Agnes Jessica Cyprian Andrew Charles
+   77  ls
+   78  mkdir -p Ogbede Jude Agnes Peter Agnes Jessica Cyprian
+   79  cd Ogbede
+   80  ls
+   81  ls -a
+   82  cd ..
+   83  ls
+   84  history
+   85  echo Back through the years I go wondering once again. Back to the seasons of my youth > Coat.txt
+   86  ls
+   87  cat funmi.txt
+   88  cat coat.txt
+   89  cat Coat.txt
+   90  echo -2 I recalled a box of rags someone gave us > Coat.txt
+   91  cat Coat.txt
+   92  cat /etc/passwd | tail -5 >> Coat.txt
+   93  cat Coat.txt
+   94  cat /etc/passwd | head -5 >> Coat.txt
+   95  cat >> omo.txt
+   96  cat 
+   97  ll /home
+   98  ls /home
+   99  su
+  100  useradd Oli
+  101  adduser Oli
+  102  cat /etc/passwd
+  103  sudo useradd Oli
+  104  sudo adduser Olise
+  105  ls /home
+  106  sudo vi /etc/sudoers
+  107  vi /etc/sudoers
+  108  sudo /etc/sudoers
+  109  sudo vi /etc/sudoers
+  110  vi /etc/sudoers
+  111  sudo /etc/sudoers
+  112  sudo vi /etc/sudoers
+  113  sodo vi /etc/sudoers
+  114  sudo vi /etc/sudoers
+  115  ls
+  116  ll
+  117  ls /home
+  118  sudo useradd yvonne
+  119  ls /home
+  120  sudo /etc/passwd
+  121  sudoer /etc/passwd
+  122  sudo su yvonne
+  123  sudo su Oli
+  124  sudo su - Olise
+  125  vi /etc/sudoers
+  126  sudo vi /etc/sudoers
+  127  sudo passwd yvonne
+  128  cat etc/passwd
+  129  cat /etc/passwd
+  130  cat /etc/shadow
+  131  sudo cat /etc/shadow
+  132  sudo userdel yvonne
+  133  cat /etc/passwd
+  134  ls /home
+  135  rmdir /home/yvonne
+  136  sudo rmdir /home/yvonne
+  137  cd /home
+  138  ls yvonne
+  139  cd yvonne
+  140  sudo rm -rf yvonne/
+  141  ls /home
+  142  cd
+  143  sudo adduser yvonne
+  144  ls /home
+  145  cat /etc/passwd
+  146  sudo passwd yvonne
+  147  sudo passwd -d yvonne
+  148  man useradd
+  149  echo $$
+  150  ps -p
+  151  ps -p #SHELL
+  152  --pp                                               32sxdeerhyjjyhy4
+  153  exit
+  154  ls
+  155  cat Onowu.txt
+  156  Cat Onowu.docx
+  157  cat Onowu.docx
+  158  vi Onowu.docx
+  159  cat database.db
+  160  WC database.db
+  161  wc database.db
+  162  date
+  163  time
+  164  systime
+  165  date
+  166  date 
+  167  history
+  168  curl
+  169  curl ifconfig.co
+  170  sudo hostname onowu
+  171  sudo su - ec2-user
+  172  sudo groupadd omo
+  173  ll
+  174  sudo chgrp Coat.txt
+  175  sudo chgrp omo Coat.txt
+  176  ll
+  177  cat /etc/passwd
+  178  cat /etc/group
+  179  ll
+  180  sudo chown Olise:omo Coat.txt
+  181  ll
+  182  df
+  183  df -h
+  184  cal
+  185  cal -3
+  186  date
+  187  sudo date
+  188  date --help
+  189  env
+  190  man umask
+  191  sudo yum install wget
+  192  sudo yum remove wget
+  193  sudo apt install wget
+  194  sudo yum install apt
+  195  sudo yum install wget
+  196  sudo yum remove git
+  197  sudo yum install git
+  198  sudo yum install unzip
+  199  sudo yum install httpd
+  200  sudo systemctl start httpd
+  201  systemctl httpd start
+  202  systemctl start httpd
+  203  sudo systemctl httpd start
+  204  sudo systemctl httpd service
+  205  sudo systemctl status https
+  206  exit
+  207  sudo systemctl start
+  208  sudo systemctl httpd start
+  209  sudo systemctl start httpd
+  210  sudo systemctl status httpd
+  211  source
+  212  source Coat.txt
+  213  ls
+  214  source -s
+  215  source -help
+  216  vi index.xml
+  217  vi /var/www/html/index.html
+  218  sudo vi /var/www/html/index.html
+  219  yum list
+  220  sudo yum list
+  221  sudo yum install mailx
+  222  sudo yum install unzip
+  223  ls /a
+  224  ls
+  225  zip zippedfile Coat.txt database.db
+  226  zip zippedfile Coat.txt
+  227  sudo yum install zip 
+  228  zip zippedfile Coat.txt
+  229  zip zippedfile Coat.txt database.db
+  230  cat zippedfile.zip
+  231  xterm-256colorxterm-256color6cxterm-256colorxterm-256colorxterm-256color
+  232  clr
+  233  clear
+  234  wget dlcdn.apache.org/tomcat/tomcat-9/v9.0.62/bin/apache-tomcat
+  235  wget
+  236  alias folder ="mkdir"
+  237  alias folder="mkdir"
+  238  folder eregbai
+  239  ls
+  240  cat Coat.txt
+  241  cat database.db
+  242  sed -i "/Children you are very litttle\c/Pikin you are very little" Coat.txt
+  243  sed -i "/Children you are very litttle\ c/Pikin you are very little" Coat.txt
+  244  sed -i "s/Children you are very litttle/Pikin you are very little/1" Coat.txt
+  245  cat Coat.txt
+  246  sed -i "s/Children you are very litttle/Pikin you are very little/1" database.db
+  247  cat database.db
+  248  sed "s/Children you are very litttle/Pikin you are very little/1" database.db
+  249  sed -i "s/Children you are very litttle/Pikin you are very little/1" database.db
+  250  cat database.db
+  251  iproute
+  252  iproute --help
+  253  grep --help
+  254  man grep
+  255  kil -l
+  256  kill -l
+  257  kill 9
+  258  kill -9
+  259  kill -sigkill
+  260  ls
+  261  kill -s sigkill
+  262  dmidecode
+  263  sudo dmidecode
+  264  netstat
+  265  sudo yum istall nestat
+  266  sudo yum install net2
+  267  yum list
+  268  sudo yum list
+  269  sudo yum install net-tools
+  270  sudo yum install telnet
+  271  telnet google.com
+  272  Q
+  273  :q!
+  274  asd
+  275  telnet --help
+  276  telnet google.com:80
+  277  telnet google.com:8080
+  278  whereis cat
+  279  who
+  280  w
+  281  shell
+  282  cat /etc/shells
+  283  history
+  284  clear
+  285  cls
+  286  clear
+  287  clr
+  288  clear
+  289  sudo su - root
+  290  clear
+  291  sudo su - root
+  292  cat /etc/sudoers
+  293  sudo su - root
+  294  cat oando.txt
+  295  cat "He that is down needs fear no fall" omo.txt
+  296  cat omo.txt
+  297  clear
+  298  cat > group2.txt
+  299  cat group2.txt
+  300  cat >> group2.txt
+  301  cat group2.txt
+  302  echo /etc/passwd
+  303  echo group2.txt | tail -2
+  304  cat omo.txt | tail -2 >> group2.txt
+  305  cat group2.txt
+  306  mkdir -p grandfather/father/uncle
+  307  tree
+  308  rm grandfather
+  309  tree
+  310  rm grandfather
+  311  rmdir grandfather
+  312  cd grandfather
+  313  cd father
+  314  rmdir uncle
+  315  cd..
+  316  cd ..
+  317  rm father
+  318  ls
+  319  rmdir father
+  320  cd ..
+  321  rm grandfather
+  322  rmdir grandfather
+  323  mkdir -p grandfather father son
+  324  tree
+  325  rm grandfather
+  326  rmdir grandfather
+  327  rmdir father
+  328  rmdir son
+  329  git --version
+  330  sudo yum install -y git
+  331  git --version
+  332  which git
+  333  base git
+  334  mkdir fintech ; cd fintech
+  335  git config --global user.name "Onowu"
+  336  git config --global user.email "Onowu@acadalearning.com"
+  337  ll -a
+  338  git init
+  339  ll -a
+  340  cat .git
+  341  cd .git
+  342  ls
+  343  ls -a
+  344  git config user.name
+  345  git config user.email
+  346  cd ..
+  347  vi completion.bash
+  348  sh completion.bash
+  349  git status
+  350  git add completion.bash
+  351  git status
+  352  git commit help
+  353  git help commit
+  354  git commit -m "Create a completion file in git"
+  355  clear
+  356  git commit -m "Create a completion file in git"
+  357  git status
+  358  ll
+  359  ls -lr
+  360  touch completion1.bash
+  361  touch completion2.bash
+  362  touch completion3.bash
+  363  touch completion4.bash
+  364  touch completion5.bash
+  365  git status
+  366  git add completion3.bash ; git add completion2.bash
+  367  git status
+  368  git commit -m "Added more files"
+  369  git status
+  370  git log
+  371  clear
+  372  git status
+  373  git add .
+  374  git status
+  375  git commit -m "All files committed"
+  376  git status
+  377  clear
+  378  git log
+  379  cd ,,
+  380  cd ..
+  381  touch newfile {1..3)
+  382  touch newfile {1,2,3)
+  383  touch newfile.txt {1.3}
+  384  ls
+  385  touch newfile.txt{1..3}
+  386  ls
+  387  cd fintech
+  388  git status
+  389  ls -l
+  390  ls -a
+  391  touch git-file.txt
+  392  git status
+  393  git commit -m "Sunday's class recap commit"
+  394  git status
+  395  git commit -m "Sunday class recap commut"
+  396  git status
+  397  git commit -m git-file.txt "Sunday class recap commut"
+  398  git commit
+  399  clear
+  400  git commit
+  401  git commit git.file.txt
+  402  git commit git-file.txt
+  403  ls
+  404  git status
+  405  git add git-file.txt
+  406  git status
+  407  cat < git-file.txt
+  408  cat git-file.txt
+  409  vi git-file.txt
+  410  git status
+  411  git commit -m -a "Sundays Recap with moving from working directory to Local Repository bypassing Staging Index"
+  412  git commit git-file.txt -m -a "Sundays Recap with moving from working directory to Local Repository bypassing Staging Index"
+  413  git commit -m -a git-file.txt "Sundays Recap with moving from working directory to Local Repository bypassing Staging Index"
+  414  git status
+  415  git commit git-file.txt -m -a "Sundays REcap bypassing working directory"
+  416  git add git-file.txt
+  417  git status
+  418  git log
+  419  clear
+  420  git log
+  421  vi git-file.txt
+  422  git status
+  423  git commit -am "More recaps"
+  424  clear
+  425  git log
+  426  clear
+  427  touch deleteme1.txt
+  428  touch deleteme2.txt
+  429  ls
+  430  git status
+  431  clear
+  432  git add .
+  433  git status
+  434  git commit . -am "New deletem files"
+  435  git commit -am "2 new deleteme files"
+  436  ls
+  437  clear
+  438  rm deleteme1.txt
+  439  git status
+  440  git rm deleteme1.txt
+  441  git status
+  442  git log
+  443  git commit -m "Removed deletme1.txt"
+  444  cler
+  445  clear
+  446  git log
+  447  clear
+  448  git log -1
+  449  git log --since=2022-May
+  450  git log --since=2022-May-02
+  451  git lon --unitl=2022-May-14
+  452  git log --unitl=2022-May-14
+  453  clear
+  454  git log --oneline
+  455  git log --until=2022-May-14
+  456  git diff
+  457  git diff git-file.txt
+  458  cat "Thank God its Friday" >> git-file.txt
+  459  echo "Thank God its Friday" >> git-file.txt
+  460  git diff
+  461  git diff -cd
+  462  git diff -c
+  463  git diff --color-words
+  464  cat git-file.txt
+  465  echo "Aloha and Omega" > deleteme1.txt
+  466  git diff
+  467  clear
+  468  rm deleteme1.txt
+  469  git commit -am "No changes"
+  470  git log -o
+  471  git log --oneline
+  472  man git log
+  473  man git log | grep oneline
+  474  git show
+  475  history
+  476  history > Sundayclass.txt
+  477  cat sundayclass.txt
+  478  rm Sundayclass.txt
+  479  history sundayclass.txt
+  480  history > sundayclass.txt
+  481  cat sundayclass.txt
+  482  clear
+  483  git show
+  484  git show 5-6
+  485  git log --oneline
+  486  git show --73afc45
+  487  git show 73afc45
+  488  git show 990fb22 ;; git show bb64bfc
+  489  git show 990fb22 && git show bb64bfc
+  490  git show 990fb22 ; git show bb64bfc
+  491  vi git-file.txt
+  492  git commit -a
+  493  git status
+  494  git add sundayclass.txt
+  495  git commit -am
+  496  git commit -a
+  497  git commit -am "Add status"
+  498  git status
+  499  git log
+  500  git status --oneline
+  501  git log --oneline
+  502  git commit --ammend -m "Modifies a line"
+  503  git amend --m "Modifies a line in the code"
+  504  man git help |amend
+  505  man git | grep amend
+  506  clear
+  507  git branch
+  508  git branch new_feature
+  509  git branch
+  510  git checkout new_feature
+  511  git branch
+  512  history > sundayclass.txt
+  513  cat sundayclass.txt
+  514  clear
+  515  git status
+  516  git add sundayclass.txt
+  517  git commit -am "Working from new_featur branch"
+  518  git status
+  519  git diff
+  520  git diff --colour
+  521  git show
+  522  git checkout new_feature
+  523  git branch master
+  524  git checkout master
+  525  git switch new_feature
+  526  git log
+  527  clear
+  528  git status
+  529  cat git-file.txt
+  530  gt switch master
+  531  git switch master
+  532  cat git-file.txt
+  533  git log --oneline
+  534  git switch new_feature
+  535  cat git-file.txt
+  536  git branch
+  537  ls -a
+  538  cd .git
+  539  ls
+  540  cd branches
+  541  ls
+  542  ls -a
+  543  cd ..
+  544  git branch
+  545  git diff new_featre..master
+  546  git diff new_feature..master
+  547  clear
+  548  git diff new_feature..master
+  549  git branch test_branch1
+  550  git branch
+  551  git checkout -b test_branch2
+  552  git branch -m bug_fix
+  553  git branch
+  554  git switch master
+  555  git branch -m test_branch1 beta_testing
+  556  git branch
+  557  git branch -d bug_fix
+  558  git switch new_feature
+  559  git branch -d beta_testing
+  560  git branch
+  561  git branch -d bug_fix
+  562  git branch
+  563  history > sundayclass.txt
+  564  git status
+  565  cat sundayclass.*
+  566  git status
+  567  git commiy -am "Updated syntaxes"
+  568  git commit -am "Updated syntaxes"
+  569  clear
+  570  git log --oneline
+  571  clear
+  572  git diff master..new_feature
+  573  git switch master
+  574  git merge new_feature
+  575  git diff master..new_feature
+  576  history > sundayclass.txt
+  577  git diff master..new_feature
+  578  git diff new_feature..master
+  579  cat sundayclass.txt
+  580  git status
+  581  git commit -am "history updated on master"
+  582  git diff new_feature..master
+  583  git switch new_feature
+  584  git diff new_feature..master
+  585  git switch master
+  586  git merge new_feature
+  587  git diff new_feature..master
+  588  git switch new_feature
+  589  git merge master
+  590  git diff new_feature..master
+  591  clear
+  592  git log --oneline
+  593  man git branch
+  594  git branch -f onowu
+  595  git log
+  596  clear
+  597  git log --online
+  598  git log --oneline
+  599  git status -1
+  600  git log -1
+  601  git switch onowu
+  602  git branch
+  603  git status
+  604  ls
+  605  git diff mater..onowu
+  606  git diff master..onowu
+  607  git diff onowu..new_feature
+  608  git switch master
+  609  git commit --amend -m "changed a few things"
+  610  git diff master..onowu
+  611  git diff master..new_feature
+  612  git diff new_feature..master
+  613  git diff
+  614  git branch
+  615  history > sundayclass.txt
+  616  git diff
+  617  git diff --color-words
+  618  gitdiff --no-color
+  619  git diff --no-color
+  620  git diff master..new_feature
+  621  git status
+  622  history > sundayclass.txt
+  623  git status
+  624  git commit -ma "final class syntax history"
+  625  git commit -am "final class syntax history"
+  626  git diff master..new_feature
+  627  git branch
+  628  git diff master..onowu
+  629  git merge master..onowu..new_feature
+  630  git merge master..onowu
+  631  git switch onowu
+  632  git merge master..onowu
+  633  git merge master
+  634  git branch
+  635  switch master
+  636  git switch master
+  637  bgit branch
+  638  git branch
+  639  git switch master
+  640  git merge --quit
+  641  git merge onowu
+  642  git status
+  643  git diff master..onowu
+  644  git commit -am "final commands"
+  645  git merge onowu
+  646  git merge new_feature
+  647  cat sundayclass.txt
+  648  git switch onowu
+  649  cat sundayclass.txt
+  650  git switch onowu
+  651  git switch master
+  652  cat sundayclass.txt
+  653  git diff master..onowu
+  654  clear
+  655  git diff master..onowu
+  656  git merge onowu
+  657  git merge --quit
+  658  git switch onowu
+  659  git switch new_feature
+  660  clear
+  661  git log
+  662  clear
+  663  git status
+  664  git commit -am "final commands"
+  665  fir status
+  666  git status
+  667  git switch new_feature
+  668  git diff master..new_feature
+  669  git merge master
+  670  git status
+  671  git merge --abort
+  672  git status
+  673  git switch master
+  674  git merge new_feature
+  675  git status
+  676  git branch
+  677  git add sundayclass.txt
+  678  git commit -m "final cmds"
+  679  git merge new_feature
+  680  git diff master..onowu
+  681  git merge onowu
+  682  git merger --abort
+  683  git merge --abort
+  684  git switch onowu
+  685  git merge master
+  686  git add sundayclass.txt
+  687  git status
+  688  git commit -m "history update"
+  689  git merge master
+  690  cat sundayclass.txt
+  691  git diff master..onowu
+  692  cd ..
+  693  git status
+  694  which bash > param.sh
+  695  vi param.sh
+  696  ./param.sh
+  697  chmod +x param.sh
+  698  ./param.sh
+  699  ./param.sh 1 2 4 6 8
+  700  ./param.sh 564 787 9876 dgrs
+  701  vi param.sh
+  702  ./param.sh
+  703  ./param.sh He that is down needs fear no fall
+  704  ./param.sh He that is 
+  705  rm param.sh
+  706  which bash > param1.sh
+  707  vi param1.sh
+  708  vi param1.sh arg1 arg2 "arg22 id good" arg4
+  709  sh param1.sh arg1 arg2 "arg22 id good" arg4
+  710  vi param1.sh
+  711  vi param2.sh
+  712  mv param2.sh bar.sh
+  713  sh param1.sh arg1 arg2 "arg22 id good" arg4
+  714  chmod +x bar.sh
+  715  sh param1.sh arg1 arg2 "arg22 id good" arg4
+  716  clear
+  717  sh param1.sh arg1 arg2 "arg22 id good" arg4
+  718  sh param1.sh When the "Going gets good"
+  719  vi param1.sh
+  720  vi param2.sh
+  721  chmod +x param2.sh
+  722  sh param2.sh
+  723  vi param2.sh
+  724  sh param2.sh
+  725  sh param2.sh when "the going gets" good
+  726  vi param2.sh
+  727  sh param2.sh when "the going gets" good
+  728  vi param2.sh
+  729  sh param1.sh when "the going gets" good
+  730  ls
+  731  vi bar.sh
+  732  sh param1.sh
+  733  sh param1.sh When "the going gets" good
+  734  vi bar.sh
+  735  sh param1.sh When "the going gets" good
+  736  vi bar.sh
+  737  sh param1.sh When "the going gets" good
+  738  vi param1.sh When "the going gets" good
+  739  mv bar.sh input.sh
+  740  mv param1.sh wildcard.sh
+  741  sh param1.sh
+  742  sh wildcard.sh
+  743  ls
+  744  chmod+x wildcard.sh
+  745  chmod +x wildcard.sh
+  746  chmod +x input.sh
+  747  sh wildcard.sh
+  748  sh wildcard.sh when "the going gets good"
+  749  vi wildcard.sh when "the going gets good"
+  750  sh wildcard.sh when "the going gets" good
+  751  clear
+  752  sh wildcard.sh when "the going gets" good
+  753  cp wildcard.sh arg.sh
+  754  vi arg.sh
+  755  sh arg.sh
+  756  sh arg.sh when "the going gets" tough
+  757  clear
+  758  sh arg.sh when "the going gets" tough
+  759  vi arg.sh
+  760  sh arg.sh when "the going gets" tough
+  761  vi arg.sh
+  762  sh arg.sh when "the going gets" tough
+  763  vi arg.sh
+  764  sh arg.sh when "the going gets" tough
+  765  clear
+  766  sh arg.sh when "the going gets" tough
+  767  sh wildcard.sh when "the going gets" tough
+  768  vi arg.sh
+  769  sh arg.sh when "the going gets" tough
+  770  vi arg.sh
+  771  sh arg.sh when "the going gets" tough
+  772  vi arg.sh
+  773  ls
+  774  cd fintech
+  775  git log
+  776  git log --oneline
+  777  git show
+  778  git branch
+  779  git switch master
+  780  git branch
+  781  clear
+  782  git log --5
+  783  git log --oneline -5
+  784  git diff master..new_feature
+  785  git branch
+  786  git diff master..onowu
+  787  git diff master..onowu..new_feature
+  788  git diff onowu..new_feature
+  789  git remote
+  790  git remote add origin https://github.com/ccharlex/acadaclass.git
+  791  git branch
+  792  git remote
+  793  git remote -v
+  794  got status
+  795  git status
+  796  git branch
+  797  git push -u origin master
+  798  git fetch
+  799  git status
+  800  history > may19.txt
